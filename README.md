@@ -1,4 +1,11 @@
 ## Hi there 👋
+I'm Ice , CS student based in Thailand.
+I study at HCU university.
+
+My Main Goal:
+ - Try to learn programming
+ - Do every project
+ - Learn English for read/speak/listen/translate
 
 <!--
 **Ice661290/Ice661290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
