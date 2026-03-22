@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Thanatcha Nakong (Ice) 👋</h1>
+<h1 align="left">👋 Hi, I'm Thanatcha Nakong (Ice) </h1>
 
 ## 👨‍💻 About Me
 
