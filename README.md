@@ -6,6 +6,8 @@ I am a highly motivated 3rd-year Computer Science student at **Huachiew Chalermp
 
 I focus on seamlessly integrating frontend and backend systems to build functional, real-world software from complex requirements. I am deeply passionate about writing Clean Code, understanding the complete Software Development Life Cycle (SDLC), and rapidly adapting to emerging tech stacks.
 
+🌐 My Portfolio:  https://portfolio-website-lilac-seven-10.vercel.app/
+
 ---
 
 ## 🛠️ Technical Skills
@@ -41,10 +43,3 @@ I focus on seamlessly integrating frontend and backend systems to build function
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
 ---
-
-## 🌐 My Portfolio
-
-* https://portfolio-website-lilac-seven-10.vercel.app/
-
----
-
