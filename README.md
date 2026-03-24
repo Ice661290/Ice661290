@@ -43,3 +43,9 @@ I focus on seamlessly integrating frontend and backend systems to build function
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
 ---
+
+## 📬 Contact (ช่องทางการติดต่อ)
+
+- **Email:** thanatcha22547@gmail.com
+- **Tel:** 0863583227
+- **LINE ID:** polight16
