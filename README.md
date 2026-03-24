@@ -44,7 +44,7 @@ I focus on seamlessly integrating frontend and backend systems to build function
 
 ---
 
-## 📬 Contact (ช่องทางการติดต่อ)
+## 📬 Contact 
 
 - **Email:** thanatcha22547@gmail.com
 - **Tel:** 0863583227
