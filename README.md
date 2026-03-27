@@ -2,9 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I am a highly motivated 3rd-year Computer Science student at **Huachiew Chalermprakiet University**, actively seeking a **Cooperative Education (Co-op) internship** to further develop my skills as a Full-Stack Developer. 
-
-I focus on seamlessly integrating frontend and backend systems to build functional, real-world software from complex requirements. I am deeply passionate about writing Clean Code, understanding the complete Software Development Life Cycle (SDLC), and rapidly adapting to emerging tech stacks.
+I'm a 3rd-year Computer Science student at Huachiew Chalermprakiet University. I am actively seeking a Co-op internship in Full-Stack, Software, or Game Development. I enjoy building practical applications—whether that involves integrating frontend and backend systems, crafting software solutions, or exploring game mechanics. Highly motivated and resilient, I thrive on learning new tech stacks. I am eager to bring my problem-solving skills to real-world projects and learn industry best practices from an experienced team.
 
 🌐 My Portfolio:  https://portfolio-website-lilac-seven-10.vercel.app/
 
