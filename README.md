@@ -66,6 +66,8 @@ I'm a 3rd-year Computer Science student at Huachiew Chalermprakiet University. I
 
 ---
 
+### 📊 GitHub Stats 
+
 <img src="https://streak-stats.demolab.com/?user=Ice661290&theme=radical" alt="GitHub Streak" />
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ice661290&show_icons=true&theme=radical" height="180" alt="GitHub Stats" />
