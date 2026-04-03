@@ -50,6 +50,20 @@ I'm a 3rd-year Computer Science student at Huachiew Chalermprakiet University. I
 ### 🚀 Highlighted Projects
 
 * 🍽️ **Canteen Queue Reservation System:** &nbsp;&nbsp; [![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Ice661290/Canteen-Queue-Reservation-System) 
+  * A web application for booking food queues using **HTML**, **CSS**, **JavaScript**, **PHP**, **XAMPP**, and **MySQL**
+  * User Features: Order food from anywhere, check order status, and view past receipts.
+  * Vendor Features: Manage food menus (add/edit/delete) and see current orders.
+
+* 🧩 **Wordle IT:** &nbsp;&nbsp; [![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Ice661290/Wordle-IT) 
+  * A guessing game focused on IT words.
+  * Developed the frontend and core game using **HTML**, **CSS**, **JavaScript**, and **JSON**.
+  * **Game Features:**
+    * **Color Hints:** Green (correct letter and position), Yellow (correct letter, wrong position), and Gray (letter not in the word).
+    * **Guess Limit:** Tracks user attempts and gives players 6 chances to win.
+   <!-- * **Responsive:** Works smoothly on both computers and mobile phones.-->
+
+<!--
+* 🍽️ **Canteen Queue Reservation System:** &nbsp;&nbsp; [![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Ice661290/Canteen-Queue-Reservation-System) 
   * A smart food queue booking system designed as a digital solution to eliminate peak-hour canteen congestion.
   * Designed and implemented the web-application using **HTML**, **CSS**, **JavaScript**, **PHP** and **SQL** for efficient order management.
   * Successfully optimized wait times and streamlined the ordering process for both students and vendors.
@@ -59,10 +73,12 @@ I'm a 3rd-year Computer Science student at Huachiew Chalermprakiet University. I
   * Developed the frontend interface and core game logic utilizing **HTML**, **CSS**, **JavaScript** and **Json**.
   * Features dynamic word validation, state management for user attempts, and a responsive design.
 
+
 * 🪐 **3D Solar System Simulation:** &nbsp;&nbsp; [![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Ice661290/SolarSystemSimulation) 
   * An educational 3D simulation built to visualize planetary orbits and celestial characteristics.
   * Engineered the interactive 3D environment and rendering using **Unity** and **C#**.
   * Implemented interactive elements allowing users to explore planets with scaled physics and orbital mechanics.
+-->
 
 ---
 
