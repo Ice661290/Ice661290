@@ -6,7 +6,7 @@ I'm a Third-year Computer Science student at Huachiew Chalermprakiet University.
 
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-Click--here--to--see--my--PORTFOLIO-111?style=for-the-badge)](https://portfolio-website-lilac-seven-10.vercel.app/)
 
-[![Resume](https://img.shields.io/badge/📄_RESUME-Click--here--to--see--my--RESUME-111?style=for-the-badge)](https://drive.google.com/file/d/1prrJYvRa6_d4U2SuK_Ej_0jj8OHrXO8F/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/📄_RESUME-Click--here--to--see--my--RESUME-111?style=for-the-badge)](https://drive.google.com/file/d/165EqKcDDcZvp0GEL2LcPRIES9RbhZ9U3/view?usp=sharing)
 
 ---
 
