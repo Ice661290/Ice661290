@@ -64,6 +64,13 @@ I'm a 3rd-year Computer Science student at Huachiew Chalermprakiet University. I
   * **Game Features:**
     * **Color Hints:** Green (correct letter and position), Yellow (correct letter, wrong position), and Gray (letter not in the word).
     * **Guess Limit:** Tracks user attempts and gives players 6 chances to win.
+
+* 🛡️ **Enhanced Firewall Simulator:** &nbsp;&nbsp; [![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Ice661290/Enhanced-Firewall-Simulator)
+  * A software-based network security simulation tool.
+  * Developed the core filtering logic using **Python**.
+  * **Core Features:**
+    * **Rule-Based Filtering:** Configurable rules to allow or drop traffic based on IP addresses, ports, and protocols.
+    * **Activity Logging:** Monitors and records simulated network events for traffic analysis and tracking.
    <!-- * **Responsive:** Works smoothly on both computers and mobile phones.-->
 
 <!--
